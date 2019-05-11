@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="36" last-seen="1552206737"/>
+    <application id="org.gnome.Builder.desktop" open-window-count="0" score="4" last-seen="1552206434"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="99" last-seen="1552206990"/>
+    <application id="atom.desktop" open-window-count="0" score="5" last-seen="1552206966"/>
+    <application id="vivaldi-stable.desktop" open-window-count="2" score="0" last-seen="1552207016"/>
+    <application id="electron.desktop" open-window-count="0" score="2" last-seen="1552206798"/>
+  </context>
+</application-state>
